@@ -1,0 +1,13 @@
+Metadata-Version: 1.0
+Name: swagger-client
+Version: 1.2.0
+Summary: UNKNOWN
+Home-page: https://github.com/mward29/python-k8sclient-autoscaling-v1
+Author: UNKNOWN
+Author-email: Michael Ward <@devoperandi>
+License: UNKNOWN
+Description: \ This is a python client for Kubernetes Autoscaling v1
+        
+            
+Keywords: Swagger,python,client,kubernetes
+Platform: UNKNOWN
