@@ -7,7 +7,7 @@ swagger-codegen (if you intend to generate your own client)
 
 ## v1.json
 
-Pulled from https://raw.githubusercontent.com/kubernetes/kubernetes/master/api/swagger-spec/v1.json for Kubernetes v1.2.2
+Pulled from https://raw.githubusercontent.com/kubernetes/kubernetes/79a9a14c6f94f848e82024e329bc0f76bd2fd71c/api/swagger-spec/autoscaling_v1.json for Kubernetes v1.2.2
 
 ## Setuptools
 You can install the bindings via [Setuptools](http://pypi.python.org/pypi/setuptools).
